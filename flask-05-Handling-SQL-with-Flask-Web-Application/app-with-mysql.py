@@ -31,7 +31,7 @@ CREATE TABLE users (
 data = """
 INSERT INTO clarusway.users 
 VALUES 
-	("Tuba", "tuba@amazon.com" ),
+	("Betul", "tuba@amazon.com" ),
 	("Ethan", "ethan@micrasoft.com"),
 	("mostafa", "mostafa@facebook.com"),
     ("sait", "sait@tesla.com"),
